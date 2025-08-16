@@ -1,0 +1,19 @@
+/* src/index.css */
+
+/* Reset / Normalize */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base body styles */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #000;   /* default dark theme */
+  color: #fff;
+  line-height: 1.6;
+}
+#num{
+  color: rgb(75, 38, 237);
+}
